@@ -7,7 +7,7 @@ const http = require('http');
 // ==========================================
 const BOT_TOKEN = process.env.BOT_TOKEN || '8880831345:AAErp3Fjvv1pEzZ49y4TJP4jni40k0nEJuQ'; // BotFather থেকে পাওয়া টোকেন
 const BOT_USERNAME = process.env.BOT_USERNAME || '@BDViralTubeBot'; // আপনার বটের ইউজারনেম (@ ছাড়া)
-const MINI_APP_URL = 'https://emonahmmedevanofficiall.github.io/trend-videohub/'; // GitHub Pages-এর লিংক
+const MINI_APP_URL = 'https://emonahmmedevanofficiall.github.io/ViralHub/'; // GitHub Pages-এর লিংক
 const ADMIN_GROUP_ID = process.env.ADMIN_GROUP_ID || '-1004416355782'; // এডমিন গ্রুপের আইডি
 
 // ==========================================
